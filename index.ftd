@@ -6,7 +6,7 @@ align-content: center
 
 
 -- cd: Hello World
-img: $assets.files.images.ajit.jpg	
+img: $assets.files.assets.ajit.jpg	
 
 This is an example
 
@@ -15,7 +15,7 @@ This is an example
 -- cd: YO
 img: https://w0.peakpx.com/wallpaper/861/211/HD-wallpaper-girl-road-transition-sakura-live-anime-art-thumbnail.jpg
 
-khfkjsada
+Whatever
 
 -- end: ftd.column
 
